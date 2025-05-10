@@ -7,7 +7,7 @@
 노션의 사용성과 VSCode의 직관적인 인터페이스와 너무 심풀하지 않은 디자인 차용하여 사용자 친화적인 환경을 제공하는 것이 목표입니다.<br>
 조금 더 직관적으로 보자면 '하이브리드 노트앱'이라고 보는 정도로 환경을 제공하고 그러한 서비스를 하고자 하는 것이 최대 목표이다.
 
-사용되는 에디터 라이브러리 관련 내용 : [wiki-document-system.md](idea-box\wiki-document-system.md)
+사용되는 에디터 라이브러리 관련 내용 : [Docade(wiki-document-system.md)](idea-box\wiki-document-system.md)
 
 ### 차용 및 서비스에 참고 목록
 - Notion :: https://www.notion.com/
