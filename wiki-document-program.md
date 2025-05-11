@@ -18,6 +18,7 @@
 - VScode :: https://code.visualstudio.com/
 - Cursor :: https://www.cursor.com/
 - Google Sheets :: https://workspace.google.com/intl/ko/products/sheets/
+- GoodNotes :: https://www.goodnotes.com/
 
 ### 주요 목적
 - **하이브리드 저장 방식**: 로컬 저장과 클라우드 저장을 병행하여 사용자가 선택할 수 있는 유연성 제공
