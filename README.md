@@ -54,3 +54,29 @@ We're looking for team members from all walks of life to help with development a
     - 현대적이고 세련된 느낌
     - 앱의 차별화된 특성인 '연결된 지식 시스템'을 암시
     - 확장성과 미래지향적인 이미지를 제공
+3. NexusNote
+
+---
+
+## announcements 📢
+
+## Community[커뮤니티]
+
+아직 생성되지 않은 계정이거나 커뮤니티이오니 링크 클릭을 하지 말아주세요.
+
+<div align="center">
+  <a href="https://discord.gg/docuverse">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+  <a href="https://x.com/DocuVerseApp">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
+  </a>
+  <a href="https://instagram.com/DocuVerseOfficial">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://youtube.com/c/DocuVerse">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube">
+  </a>
+</div>
+
+## To-Do 📝
