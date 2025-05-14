@@ -1,7 +1,7 @@
 # DocuVerse Project
 
-- [DocuVerse(wiki document system)](wiki-document-system.md)
-- [wiki document program and application](wiki-document-program.md)
+- [DocuVerse(wiki document system/Editor Library)](wiki-document-system.md)
+- [wiki document program and application](wiki-document-application.md)
 
 /KR<br>
 다용도 에디터, 하이브리드 노트 애플리케이션 DocuVerse Project에 오신 것을 환영합니다.<br>
