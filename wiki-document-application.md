@@ -10,7 +10,7 @@
 사용되는 에디터 라이브러리 관련 내용 : [wiki document system/Editor Library](Development_Docs\Editor_Library)
 사용되는 라이센스 : GPL-3.0 license
 
-### 차용 및 서비스에 참고 목록
+### 참고 및 벤치마킹 서비스
 - Notion :: https://www.notion.com/
 - Obsidian :: https://obsidian.md/
 - Slashpage :: https://slashpage.com/
