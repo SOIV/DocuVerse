@@ -55,7 +55,6 @@ We're looking for team members from all walks of life to help with development a
     - 앱의 차별화된 특성인 '연결된 지식 시스템'을 암시
     - 확장성과 미래지향적인 이미지를 제공
 3. NexusNote
-4. Palette
 
 ---
 
