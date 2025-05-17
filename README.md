@@ -60,6 +60,11 @@ We're looking for team members from all walks of life to help with development a
 
 ## announcements 📢
 
+DocuVerse Project는 SOIV Studio에서 작업이 아닌 Palette Square Studio에서 운영 및 진행하는 프로젝트입니다.<br>
+SOIV Studio는 저 SOIV가 개인으로 운영하는 팀 개념의 스튜디오임니다.
+
+Palette Square Studio (PS Studio)는 개인이 아닌 완전한 팀으로 운영합니다.
+
 ## Community[커뮤니티]
 
 아직 생성되지 않은 계정이거나 커뮤니티이오니 링크 클릭을 하지 말아주세요.
