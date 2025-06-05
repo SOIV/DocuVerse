@@ -45,36 +45,35 @@ We're looking for team members from all walks of life to help with development a
 
 ## Application 이름 후보
 1. DocuMind
-    - 앱의 핵심 기능인 문서 관리와 AI 통합을 가장 잘 표현
-    - DocuVerse Project와 일관된 브랜딩을 형성
-    - 직관적이고 기억하기 쉬움
-    - 전문적이면서도 접근하기 쉬운 이미지
+  - 앱의 핵심 기능인 문서 관리와 AI 통합을 가장 잘 표현
+  - DocuVerse Project와 일관된 브랜딩을 형성
+  - 직관적이고 기억하기 쉬움
+  - 전문적이면서도 접근하기 쉬운 이미지
 2. NexusFlow
-    - 지식의 연결성과 작업 흐름의 자연스러움을 강조
-    - 현대적이고 세련된 느낌
-    - 앱의 차별화된 특성인 '연결된 지식 시스템'을 암시
-    - 확장성과 미래지향적인 이미지를 제공
+  - 지식의 연결성과 작업 흐름의 자연스러움을 강조
+  - 현대적이고 세련된 느낌
+  - 앱의 차별화된 특성인 '연결된 지식 시스템'을 암시
+  - 확장성과 미래지향적인 이미지를 제공
 3. NexusNote
+4. FlowNote
 
 ---
 
 ## announcements 📢
 
 DocuVerse Project는 SOIV Studio에서 작업이 아닌 Palette Square Studio에서 운영 및 진행하는 프로젝트입니다.<br>
-SOIV Studio는 저 SOIV가 개인으로 운영하는 팀 개념의 스튜디오입니다.
-
-Palette Square Studio는 개인이 아닌 완전한 팀으로 운영합니다.<br>
-절찬리에 팀원을 모집하는 중이에요! 모든 분야의 팀원을 찾고있어요!
+Palette Square Studio는 완전한 팀으로 운영하며 절찬리에 모든 분야의 팀원을 모집하는 중이에요!
 
 ## Community[커뮤니티]
 
-아직 생성되지 않은 계정이거나 커뮤니티이오니 링크 클릭을 하지 말아주세요.
+아직 생성되지 않은 계정이거나 커뮤니티이오니 링크 클릭을 하지 말아주세요.<br>
+인스타그램을 제외한 다른 계정 및 커뮤니티는 활성화가 되어 있는 상태입니다.
 
 <p align="center">
   <a href="https://discord.gg/tVnhbaB9yY"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-  <a href="https://x.com/Kileu_NETWORK"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"></a>
-  <a href="https://instagram.com/DocuVerseOfficial"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://www.youtube.com/@Kileu-NETWORK_official"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"></a>
+  <a href="https://x.com/PSquare_Studio"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"></a>
+  <a href="https://instagram.com/Palette-Square_Studio"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.youtube.com/@Palette-Square_Studio"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"></a>
 </p>
 
 ## To-Do 📝
