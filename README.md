@@ -1,7 +1,7 @@
 # DocuVerse Project
 > 메모, 문서, 지식 정리, 프로젝트 관리, 데이터베이스, 공개 웹사이트, 노트(필기) 등을 전부 지원을 해보자는 아이디어와 생각에서 나타난 애플리케이션 프로젝트!
 - [wiki document system/Editor Library](Development_Docs\Editor_Library)
-- [wiki document program and application](wiki-document-application.md)
+- [wiki document program and application](Development_Docs\Application)
 
 /KR<br>
 다용도 에디터, 하이브리드 노트 애플리케이션 DocuVerse Project에 오신 것을 환영합니다.<br>
