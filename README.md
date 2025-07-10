@@ -63,6 +63,7 @@ We're looking for team members from all walks of life to help with development a
 
 DocuVerse Project는 SOIV Studio에서 작업이 아닌 Palette Square Studio에서 운영 및 진행하는 프로젝트입니다.<br>
 Palette Square Studio는 완전한 팀으로 운영하며 절찬리에 모든 분야의 팀원을 모집하는 중이에요!
+> Project 이름은 변경될 가능성이 있는 상태입니다
 
 ## Community[커뮤니티]
 
