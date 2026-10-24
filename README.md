@@ -1,7 +1,12 @@
 # DocuVerse Project
-> 메모, 문서, 지식 정리, 프로젝트 관리, 데이터베이스, 공개 웹사이트, 노트(필기) 등을 전부 지원을 해보자는 아이디어와 생각에서 나타난 애플리케이션 프로젝트!
+
+> 공통 에디터 라이브러리, 태블릿 우선 하이브리드 노트 앱, 셀프호스팅 문서 프레임워크를 만드는 기획·설계 단계의 프로젝트입니다.
+
 - [wiki document system/Editor Library](Development_Docs/Editor_Library)
 - [wiki document program and application](Development_Docs/Application)
+- [Self-hosted Framework / Libraries](Development_Docs/Framework/README.md)
+- [개발 문서 안내와 현재 결정 사항](Development_Docs/README.md)
+- [에디터·앱·프레임워크 통합 개발 로드맵](Development_Docs/ROADMAP.md)
 
 /KR<br>
 다용도 에디터, 하이브리드 노트 애플리케이션 DocuVerse Project에 오신 것을 환영합니다.<br>
@@ -20,6 +25,7 @@ We're looking for team members from all walks of life to help with development a
 ---
 
 ## DocuVerse <문서의 우주, 포괄적인 문서 생태계>
+
 장점: 확장성과 포괄성을 암시, 독특함<br>
 특징: 문서의 우주라는 개념으로 규모감 제공<br>
 분위기: 현대적이고 광범위한 느낌<br>
@@ -44,6 +50,7 @@ We're looking for team members from all walks of life to help with development a
 ---
 
 ## Application 이름 후보
+
 1. DocuMind
   - 앱의 핵심 기능인 문서 관리와 AI 통합을 가장 잘 표현
   - DocuVerse Project와 일관된 브랜딩을 형성
